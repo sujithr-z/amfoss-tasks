@@ -6,6 +6,8 @@ Hey, I'm Sujith Raj, currently pursuing a physics major undergraduate at Amrita 
 
 If I had five years to work on one problem, I'd pick the computation box itself — the computer's architecture, and how it actually computes.
 
+oh! i think i was talking to Nerdiness :( .... but i acutally like this kind of things. 
+
 Today's computers have a lot of potential, but with the AI boom, we need far more computation power and better algorithms to keep up — not just faster hardware. Every algorithm solves a problem in exactly one fixed way it was built for, and Moore's Law is running out for scaling that further. That's why quantum computing and photonic architectures pulled me in — I want to design a better algorithmic mechanism, not just build faster machines.
 
 ## Something I learned outside a classroom
@@ -14,13 +16,15 @@ Apart from the classroom, I've always had an interest in programming, technical 
 
 To chase that curiosity, I taught myself programming, graphic design, and 3D animation. Those things opened the door to bigger stuff — big data, computer architecture, reverse engineering, cryptography — and the list just kept growing. I've gone from basic programming all the way to working with MCP and LLM models now.
 
-I have my own motto for this: knowledge and information are entirely different things. A person with a lot of information isn't automatically knowledgeable — those aren't the same. Knowledge is something you mold and process out of information — how you turn information into your own wisdom, your own ideology, your own creativity, your own understanding. That's what I believe knowledge actually is, versus just having information.
+you know what stranger ?...over the time, i build a motto for myself
 
-I built this myself, outside any class. Learning is free in this world — food, speech, and learning are things nobody can take from you. If you have an idea, just work on it.
+my own motto for this: knowledge and information are entirely different things. A person with a lot of information isn't automatically knowledgeable — those aren't the same. Knowledge is something you mold and process out of information — how you turn information into your own wisdom, your own ideology, your own creativity, your own understanding. That's what I believe knowledge actually is, versus just having information.
+
+I built this myself, outside any class. Learning is free in this world . If you have an idea, just work on it.
 
 ## How I want to contribute to the club
 
-I joined because of a genuine love, honestly, for computers. It's the passion I already had for this field that pulled me in.
+I want to join because of a genuine love, honestly, for computers. It's the passion I already had for this field that pulled me in.
 
 What I bring is ambition, curiosity, and initiative — I like to go beyond what's assigned and actually push things forward.
 
