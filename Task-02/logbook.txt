@@ -1,0 +1,6 @@
+TERMINAL VOYAGE - LOGBOOK
+
+Level 01
+--------------------
+commands:
+   #pass
