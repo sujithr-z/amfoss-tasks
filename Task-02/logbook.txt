@@ -1,6 +1,95 @@
-TERMINAL VOYAGE - LOGBOOK
+level 1 :
 
-Level 01
---------------------
-commands:
-   #pass
+# Replace the ciphertext below with your encrypted flag
+
+    echo"
+    
+    U2FsdGVkX1+
+    uCmgR0ns+
+    u4FKrvHfxhi3bbfdWOB3EpZWwcw4BFHKchR+
+    6/rcU3Xs5EpcM88dLRI49CSbRZK5KQ==
+    
+    " | openssl enc -aes-256-cbc -a -d -pbkdf2 \ -k "GrandLineHistory"
+
+
+AWAKENING_SIGNATURE:
+
+ONE_PIECE{GITO_GITO_NO_AWAKENING}
+
+
+level 2 :
+
+
+unlock_vault.sh code part : 
+ # Clean up any existing logs from previous run attempts
+    rm -f marine_intercept.log bounty_hunter_feed.log
+
+    # Generate identical stream text blocks
+    for i in {1..100}; do
+        echo "LOG_STREAM_ENTRY_SECURE_NODE_$(printf "%03d" $i)_VALID" >> "marine_intercept.log"
+        echo "LOG_STREAM_ENTRY_SECURE_NODE_$(printf "%03d" $i)_VALID" >> "bounty_hunter_feed.log"
+    done
+ 
+ouput of diff marine_intercept.log bounty_hunter_feed.log :
+
+	42c42
+	< LOG_STREAM_ENTRY_SECURE_NODE_042_VALID
+	---
+	> BAROQUE_DIAL{SPLIT_TIMELINE_MISDIRECTION}
+
+
+level 3 :
+
+SECURITY LOG ACCESS // LEVEL 3 CLEARANCE REQUIRED
+-----
+STATUS: METALLIC WAX SUIT ACTIVE
+
+SECURITY_TAG:
+QkFST1FVRV9ESUFMe1NQTElUX1RJTUVMSU5FX01JU0RJUkVDVElPTn0K
+-----
+BAROQUE WORKS EXECUTIVE REPORT
+
+PONEGLYPH_FRAGMENT_I = "KjY2MjF4bW0lKzYqNyBsIS0vbTAtJTcnL"
+
+level 4:
+
+PONEGLYPH_FRAGMENT_II="SwnbzptDiM3JSpvFiMuJ28PJzAlJ28VIzA="
+
+
+
+DECOY_DATA_01: Structural keel blueprint verification pending...
+
+code : KjY2MjF4bW0lKzYqNyBsIS0vbTAtJTcnLSwnbzptDiM3JSpvFiMuJ28PJzAlJ28VIzA=
+
+level 5 :
+
+Enter code : KjY2MjF4bW0lKzYqNyBsIS0vbTAtJTcnLSwnbzptDiM3JSpvFiMuJ28PJzAlJ28VIzA=
+Prize : 
+https://github.com/rogueone-x/Laugh-Tale-Merge-War
+
+
+level 6 :
+diff --git a/treasure/key_part_1.txt b/treasure/key_part_1.txt
+index a5456bc..2d749a2 100644
+--- a/treasure/key_part_1.txt
++++ b/treasure/key_part_1.txt
+@@ -2,4 +2,4 @@ PONEGLYPH FRAGMENT α
+ 
+ Recovered Inscription:
+ 
+-Line
++TheGrand
+diff --git a/treasure/key_part_2.txt b/treasure/key_part_2.txt
+index f8f4a67..1b642c1 100644
+--- a/treasure/key_part_2.txt
++++ b/treasure/key_part_2.txt
+@@ -2,4 +2,4 @@ PONEGLYPH FRAGMENT β
+ 
+ Recovered Inscription:
+ 
+-bers
++Remem
+
+
+which is TheGrandLine Remembers
+
