@@ -44,7 +44,7 @@ I plan to keep working on all three together rather than picking just one, becau
 | Task | Status |
 |---|---|
 | Task 00 | ✅ Completed |
-| Task 01 | 🟡 Partially Completed |
+| Task 01 | ✅ Completed |
 | Task 02 | ✅ Completed |
 | Task 03 | ✅ Completed |
 | Task 04 | ✅ Completed |
