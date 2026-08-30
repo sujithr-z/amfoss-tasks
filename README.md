@@ -37,3 +37,20 @@ My interest lies at the intersection of physics, computers, and finance — I'd 
 In physics, I've been working on research papers around quantum time — the nature of time itself. In computers, my focus is on increasing computational power through quantum computing and better architectures, and figuring out where computing architecture is headed next. In finance, I've worked a fair amount in quantitative finance and asset/capital management.
 
 I plan to keep working on all three together rather than picking just one, because that intersection — physics, computation, and finance — is where I think my actual contribution is going to come from: better algorithms and architectures, grounded in physics, applied to real, hard problems.
+
+
+## AMFOSS S3 Task Progress
+
+| Task | Status |
+|---|---|
+| Task 00 | ✅ Completed |
+| Task 01 | 🟡 Partially Completed |
+| Task 02 | ✅ Completed |
+| Task 03 | ✅ Completed |
+| Task 04 | ✅ Completed |
+| Task 05 | ✅ Completed |
+| Task 06 | ✅ Completed |
+| Task 07 | ✅ Completed |
+| Task 08 | ✅ Completed |
+| Task 09 | ✅ Completed |
+| Task 10 | ✅ Completed |
