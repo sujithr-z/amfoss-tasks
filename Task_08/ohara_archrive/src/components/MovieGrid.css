@@ -1,0 +1,90 @@
+.ohara-movie-grid-section {
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+.grid-header-wrap {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.grid-title {
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.gold-accent-dot {
+  color: var(--gold-primary);
+  font-size: 0.95rem;
+}
+
+.grid-subtitle {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.ohara-movies-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+/* Empty State */
+.ohara-grid-empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 4rem 2rem;
+  background: var(--bg-card);
+  border: 1px dashed var(--border-gold);
+  border-radius: var(--radius-lg);
+  margin: 2rem 0;
+}
+
+.empty-icon-wrap {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background: rgba(212, 175, 55, 0.1);
+  border: 1px solid var(--border-gold);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--gold-primary);
+  margin-bottom: 1.2rem;
+}
+
+.ohara-grid-empty-state h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-primary);
+}
+
+.ohara-grid-empty-state p {
+  color: var(--text-secondary);
+  max-width: 420px;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.empty-cta {
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .ohara-movies-grid {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 1rem;
+  }
+  .grid-title {
+    font-size: 1.25rem;
+  }
+}
