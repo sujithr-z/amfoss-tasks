@@ -6,4 +6,4 @@ then, i started digging into problem. after that i get rough idea why this probl
 wrong configuration in rufus part
 
 so, i download iso ubuntu 25.0 version at that moment and make it bootable using rufus . then, i disabled ' secure boot' option in bios . after that i boot the ubuntu and it was
-successfully installed...oh yeah!
+successfully installed...okay
