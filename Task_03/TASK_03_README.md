@@ -87,7 +87,8 @@ cargo run
 
 ### Screenshot
 
-> **Insert East Blue execution screenshot here**
+> <img width="1920" height="1080" alt="Screenshot From 2026-08-29 15-57-48" src="https://github.com/user-attachments/assets/74d6ae3f-3b03-4b96-8158-a875beb7d35a" />
+
 
 ---
 
@@ -142,7 +143,8 @@ cargo run
 
 ### Screenshot
 
-> **Insert Reverse Mountain execution screenshot here**
+> <img width="1913" height="329" alt="Screenshot From 2026-08-29 16-11-24" src="https://github.com/user-attachments/assets/eb8e3107-ddee-465c-a0cb-8fc04fba2e22" />
+
 
 ---
 
@@ -173,7 +175,8 @@ cargo run
 
 ### Screenshot
 
-> **Insert Whiskey Peak execution screenshot here**
+> <img width="1913" height="329" alt="Screenshot From 2026-08-29 16-11-55" src="https://github.com/user-attachments/assets/870c2b77-d5ac-42da-8035-c9e8cc08586b" />
+
 
 ---
 
@@ -216,7 +219,9 @@ cargo run
 
 ### Screenshot
 
-> **Insert Alabasta execution screenshot here**
+> <img width="1920" height="1080" alt="Screenshot From 2026-08-29 15-57-48" src="https://github.com/user-attachments/assets/3df1aa1a-72ea-4f8a-aaeb-44bd3ef1d02d" />
+<img width="1913" height="329" alt="Screenshot From 2026-08-29 16-12-21" src="https://github.com/user-attachments/assets/cc766cdd-acff-479e-8413-be1dc89cae60" />
+
 
 ---
 
@@ -474,20 +479,25 @@ Major work completed:
 
 ## East Blue
 
-<!-- Insert screenshot here -->
+<img width="1920" height="1080" alt="Screenshot From 2026-08-29 15-57-48" src="https://github.com/user-attachments/assets/020b06ff-09dc-4b92-a8aa-02e1e2c9172c" />
+
 
 ## Reverse Mountain
 
-<!-- Insert screenshot here -->
+<img width="1913" height="329" alt="Screenshot From 2026-08-29 16-11-24" src="https://github.com/user-attachments/assets/bb3d64b3-784f-46b0-9a0c-b8bc8250409d" />
+
 
 ## Whiskey Peak
 
-<!-- Insert screenshot here -->
+<img width="1913" height="329" alt="Screenshot From 2026-08-29 16-11-55" src="https://github.com/user-attachments/assets/8dc4cf54-688c-4035-aab8-5d2308d3bcd0" />
+
 
 ## Alabasta
 
-<!-- Insert screenshot here -->
+<img width="1913" height="329" alt="Screenshot From 2026-08-29 16-12-21" src="https://github.com/user-attachments/assets/f5c75513-54e6-4ebf-a30e-fe4c5c98d802" />
+
 
 ## Final Verification
 
-<!-- Insert final verification screenshot here -->
+<img width="1429" height="234" alt="Screenshot From 2026-08-29 16-06-56" src="https://github.com/user-attachments/assets/4b31364c-4708-46bc-a117-b93533aa5ab8" />
+
